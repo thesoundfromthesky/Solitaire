@@ -1,0 +1,10 @@
+{
+  "name": "solitaire-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/solitaire-e2e/src",
+  "projectType": "application",
+  "tags": [],
+  "implicitDependencies": ["solitaire"],
+  "// targets": "to see all targets run: nx show project solitaire-e2e --web",
+  "targets": {}
+}
